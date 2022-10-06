@@ -14,15 +14,15 @@ Por conseguinte, será dirigida por [Karlstad](http://www.kau.se/) dada a sua co
 
 O primeiro bloco consistirá nas seguintes secções:
 
-- [Introdução a JuezLTI](pt/introJuezLTI.md)
+- [Introdução ao JuezLTI](pt/introJuezLTI.md)
 - Obtenção de credenciais para JuezLTI
-- Utilização de JuezLTI em LMS
-- Perspectiva do Professor
+- Utilização do JuezLTI em LMS
+- Vista do Professor
   - Criação de exercícios
     - Exercícios de programação
     - Exercícios de SQL
     - Exercícios de XML
   - Importação de exercícios de Authorkit
-- Perspetiva do Estudante
+- Vista do Estudante
 - [Revisão de resultados](pt/reviewingResults.md)
-- Backup e restauro
+- [Backup e restauro](pt/backupRestore.md)

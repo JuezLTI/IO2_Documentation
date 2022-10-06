@@ -2,11 +2,11 @@
 
 Os instrutores têm dois locais onde podem rever os resultados dos estudantes:
 
-  - [Revisão de resultados na Perspectiva do Professor](#revisão-de-resultados-na-perspectiva-do-professor)
+  - [Revisão de resultados na Vista do Professor](#revisão-de-resultados-na-vista-do-professor)
   - [Revisão de resultados em Grade LMS](#revisão-de-resultados-em-grade-lms)
 
 
-## Revisão de resultados na Perspectiva do Professor
+## Revisão de resultados na Vista do Professor
 
 Os instrutores podem acompanhar a actividade dos seus alunos no menu _Results_.
 
