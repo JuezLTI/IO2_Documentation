@@ -6,7 +6,7 @@ From Moodle 2.2 onwards, the **External tool** enables users to interact with LT
 
 Next, there is a summary of the [External tool](https://docs.moodle.org/400/en/External_tool) documentation in Moodle official site.
 
-Depending on your privileges in your Moodle institution site, you will be able to configure the LTI tool at activity level or at site administration level
+Depending on your privileges in your Moodle institution site, you will be able to configure the LTI tool at activity level or at site administration level.
 
 ## Activity level
 
@@ -25,7 +25,7 @@ Once you have selected the **external tool activity** ![](../docs/img/gettingCre
     - Embed without blocks - the external tool will be embedded in the Moodle course page but without blocks
     - New Window - the external tool will open in a new window. (A new window or tab will open with the External tool and the old browser window containing the course page will not change.)
 
-_The following settings are available by clicking ""Show more":_
+_The following settings are available by clicking "Show more":_
 - **Activity description** - give a short description here
 - **Display description on course page** - choose to show the description along with the activity name
 - **Display activity name when launched** - have this appear when the student clicks the link.

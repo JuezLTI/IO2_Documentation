@@ -141,7 +141,7 @@ We don't need any input. Then, a comment is enough
 ```
 
 - **Add library**: Click on **+** button and fill with these values:
-  - title: `subjects table script`
+  - title: `countries table script`
   - body:
     ```
     CREATE TABLE countries 
