@@ -39,7 +39,7 @@ The student must code his solution on _Code Solution_ field, selecting previousl
 
 At the bottom of the page the student will receive the grade and feedback of his answer.
 
-Above, you can view the result of two different codes:
+Below, you can view the result of two different codes:
 
 - Wrong answer:
 
