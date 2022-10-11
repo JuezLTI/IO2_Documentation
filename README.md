@@ -16,7 +16,7 @@ An open online course is being developed and taught to train teachers on all asp
 - Exportation and importation.
 - Examples of training itineraries
 
-This second intellectual product therefore proposes the development of the documentation associated with the JuezLTI application: [teacher's manual](MOOC1/README.md#teachers-manual), [deployment manual](MOOC2/README.md#deployment-manual) and [development manual](MOOC2/README.md#development-manual). Based on these materials, an online course will be built in a massive and open format (MOOC).
+This second intellectual product therefore proposes the development of the documentation associated with the JuezLTI application: [teacher's manual](MOOC1/README_pt.md#manual-do-professor), [deployment manual](MOOC2/README_pt.md#manual-de-implementação) and [development manual](MOOC2/README_pt.md#manual-de-desenvolvimento). Based on these materials, an online course will be built in a massive and open format (MOOC).
 
 As leaders, the [Karlstad Uni](http://www.kau.se/) will be in charge of the pedagogical design of the MOOC, as well as the style and format guides that the materials to be developed must follow. Likewise, they will control the unanimous development of the tasks assigned to each partner.
 
