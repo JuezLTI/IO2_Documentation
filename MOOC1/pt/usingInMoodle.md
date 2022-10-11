@@ -72,7 +72,7 @@ Para adicionar uma ferramenta com capacidades limitadas.
 
 ![Página de definições do registo](https://docs.moodle.org/400/en/images_en/thumb/8/8f/LTIregdetails1.png/450px-LTIregdetails1.png)
 
-_'Memberships'_, permitir que a ferramenta externa solicite uma lista de utilizadores com um determinado papel num contexto específico, por exemplo, utilizadores inscritos num curso.
+_'Memberships'_, permite que a ferramenta externa solicite uma lista de utilizadores com um determinado papel num contexto específico, por exemplo, utilizadores inscritos num curso.
 
 3. Clique na caixa de verificação para se registar:
 
