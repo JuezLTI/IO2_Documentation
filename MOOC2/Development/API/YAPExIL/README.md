@@ -35,7 +35,7 @@ Furthermore, the metadata includes many other identifying and non-identifying at
 
 ## Presentation Facet
 
-The Presentation facet, highlighted in green in the above igure, includes all elements that relate to the exercise visualization, both by the students and the instructors. More precisely, these will be the elements placed on the screen while the student solves the problem, and when the teacher firstly opens the exercise.
+The Presentation facet, highlighted in green in the above figure, includes all elements that relate to the exercise visualization, both by the students and the instructors. More precisely, these will be the elements placed on the screen while the student solves the problem, and when the teacher firstly opens the exercise.
 
 The supported elements include `instruction` -- a formatted text file with instructions to teachers about how to deliver or some remarks on the exercise --, `statement` -- a formatted text file with a complete description of the problem to solve --, `embeddable` -- an image, video, or another resource file that can be referenced in the statement --, and `skeleton` -- a code file containing part of a solution that is provided to the students, from which they can start developing theirs. 
 

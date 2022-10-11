@@ -1,3 +1,11 @@
+<p align="right">
+  <a href="README.md">[EN]</a>
+  <a href="README_es.md">[ES]</a>
+  <a href="README_pt.md">[PT]</a>
+  <a href="README_tr.md">[TR]</a>
+  <a href="README_sv.md">[SV]</a>
+</p>
+
 # The LTI Standard
 
 
@@ -16,11 +24,3 @@ This version includes LTI Advantage, defined as a package of services that add n
  - Deep Linking (DL): offers a more streamlined approach to adding LTI links to an LMS. Deep Linking messages allow external learning tools to appear within an LMS as internal tools would. With Deep Linking, external learning tools can now allow teachers to configure specific content or activities within the tool. In LTI 1.1, the whole tool content had to be exposed, even if the teacher only wanted the class to use a specific resource. Deep Linking allows teachers to select whichever content they need and share the link to launch that content with their course. For example, a tool may let a teacher configure a specific chapter from an e-book when their students select a link, rather than force them to launch the tool and then navigate to that chapter.
     
 Adopting LTI 1.3 should be a careful decision. For most of the cases, LTI 1.1 is enough in use cases where a student launches an activity from the LMS, solves it in the external tool and then a grade is reported back to the LMS grade book. However, the new LTI 1.3 features could be applied in relevant use-cases. For instance, considering the use of leaderboards: names and roles obtained from provisioning services could be used to populate leaderboards with the names of students before they submitted for the first time; deep links could be used to embed in LMS content leaderboards generated on-the-fly by the tool.
-
-
-## Choice of language
-- [English](README.md)
-- [Spanish](README_es.md)
-- [Portuguese](README_pt.md)
-- [Swedish](README_sv.md)
-- [Turkish](README_tr.md)

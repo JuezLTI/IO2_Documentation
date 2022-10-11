@@ -16,7 +16,7 @@ a service using PEARL are:
  - `GetReport`: allows a requester to get a report for a specific evaluation using
 a ticket. 
 
-![PEARL Scdhema](PEARL.png)
+![PEARL Schema](PEARL.png)
 
 The diagram depicted in the
 figure above includes two main elements: `request` and `reply`. The former echoes the request function and its parameters as received by the evaluation service and the later contains the output to that request.
