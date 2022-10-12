@@ -8,7 +8,6 @@
 
 # The LTI Standard
 
-
 The IMS Learning Tools Interoperability (LTI) specification can be defined as a standardized way to integrate third-party content into courses within an LMS or platform. Without LTI, LMS and content providers would have to rely on custom integrations with prejudice to interoperability and scalability.
 This specification evolved from a simple mechanism to launch web applications
 from the LMS, to support multiple services to securely interchange data with these applications. 
