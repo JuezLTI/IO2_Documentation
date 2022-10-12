@@ -14,7 +14,7 @@ El formato _**P**rogramming **E**xercise **A**ccessement **R**eport **L**anguage
  - `EvaluateSubmission`: permite la solicitud de la evaluación de un ejercicio de programación específico;
  - `GetReport`: permite al cliente recibir un informe de una evaluación específica utilizando un ticket.
 
-![Esquema PEARL](PEARL.png)
+![Esquema PEARL](PEARL_UML.svg)
 
 El diagrama representado en la figura anterior incluye dos elementos principales: `request` (solicitud) y `reply` (respuesta). El primero replica la solicitud y los parámetros recibidos por el servicio de evaluación y el último contiene el resultado de esa solicitud.
 
