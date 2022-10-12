@@ -16,7 +16,7 @@ Thanks to this Docker container, JuezLTI will allow a simple and modular install
 All of this will be defined in block 2 through the following sections:
 - Installing JuezLTI on premises
 - Deployment of JuezLTI on cloud
-- JudgeLTI Configuration
+- JuezLTI Configuration
 - Communication between JuezLTI and the LMS
 - Integration of exercise repositories
 

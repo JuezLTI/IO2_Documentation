@@ -20,9 +20,9 @@ YAPExIL aims to consolidate all the data required in the programming exercise li
   - `SPOT_BUG` provides code with bugs and asks students to merely indicate the location of the bugs;
   - `SORT_BLOCK` breaks a solution into several blocks of code, mixes them, and asks students to sort them.
 
-To this end, the YAPExIL JSON Schema can be divided into four separate facets: *metadata*, which contains simple properties providing information about the exercise; *presentation*, which relates to what is presented to the student; *assessment*, which encompass what is used in the evaluation phase; and *tools*, which includes any additional tools that the author may use in the exercise.
+To this end, the YAPExIL JSON Schema can be divided into four separate facets: **metadata**, which contains simple properties providing information about the exercise; **presentation**, which relates to what is presented to the student; **assessment**, which encompass what is used in the evaluation phase; and **tools**, which includes any additional tools that the author may use in the exercise.
 
-The following figure presents the data model of YAPExIL format, with the area of each facet highlighted in a distinct color. The next subsections describe each each of these facets.
+The following figure presents the data model of YAPExIL format, with the area of each facet highlighted in a distinct color. The next subsections describe each of these facets.
 
 ![YAPExIL data model](yapexil-data-model.svg)
 
@@ -45,7 +45,7 @@ All of these elements are allowed multiple instances, being required only a sing
 
 The automated assessment is the end goal of a programming exercise definition language. In order to evaluate a programming exercise, the learner must submit the source code to an evaluation engine. The evaluation engine will then use the necessary and available elements to judge it. 
 
-All the elements used in the evaluation belong to the Assessment facet, highlighted in red in the above figure, and include `template` -- code file containing part of a solution that wraps students' code without their awareness --, `library` -- code library that can be used by solutions, either in compilation or execution phase --, `static_corrector` -- external program (and associated command line) that is invoked before dynamic correction to classify/process the program's source code --, `dynamic_corrector` -- external program (and associated command line) that is invoked after the main correction to classify each run --, `solution` -- a code file with the solution of the exercise provided by the author(s), `test` -- a single public/private test with input/output text files, a weight in the overall evaluation, and a number of arguments --, and   -- a public/private set of tests.
+All the elements used in the evaluation belong to the Assessment facet, highlighted in red in the above figure, and include `template` -- code file containing part of a solution that wraps students' code without their awareness --, `library` -- code library that can be used by solutions, either in compilation or execution phase, database initialization scripts included --, `static_corrector` -- external program (and associated command line) that is invoked before dynamic correction to classify/process the program's source code --, `dynamic_corrector` -- external program (and associated command line) that is invoked after the main correction to classify each run --, `solution` -- a code file with the solution of the exercise provided by the author(s), `test` -- a single public/private test with input/output text files, a weight in the overall evaluation, and a number of arguments --, and   -- a public/private set of tests.
 
 Each element in this facet also supports multiple instances, being required only a single solution and either a test or a testset with one test. Hence, multiple correctors, libraries, and test/testsets, and solutions in different programming languages may be provided.
 
