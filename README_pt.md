@@ -18,8 +18,8 @@ Foi desenvolvido um curso online aberto para treinar professores em todos os asp
 - Exemplos de itinerários de treinamento
 
 Este segundo produto intelectual propõe assim o desenvolvimento da documentação associada à aplicação JuezLTI: 
-[manual do professor](MOOC1/README.md#teachers-manual), [manual de implantação](MOOC2/README.md#deployment-manual) 
-e [ manual de desenvolvimento](MOOC2/README.md#development-manual). 
+[manual do professor](MOOC1/README_pt.md#manual-do-professor), [manual de implementação](MOOC2/README_pt.md#manual-de-implementação) 
+e [ manual de desenvolvimento](MOOC2/README_pt.md#manual-de-desenvolvimento). 
 Com base nesses materiais, será construído um curso online em formato massivo e aberto (MOOC).
 
 Enquanto líderes, a [Karlstad Uni](http://www.kau.se/) é responsável pelo design pedagógico do MOOC, 

@@ -14,7 +14,7 @@ The **P**rogramming **E**xercise **A**ccessement **R**eport **L**anguage (PEARL)
  - `EvaluateSubmission`: allows the request of an evaluation for a specific programming exercise;
  - `GetReport`: allows a requester to get a report for a specific evaluation using a ticket. 
 
-![PEARL Schema](PEARL.png)
+![PEARL Schema](PEARL_UML.svg)
 
 The diagram depicted in the figure above includes two main elements: `request` and `reply`. The former echoes the request function and its parameters as received by the evaluation service and the later contains the output to that request.
 
