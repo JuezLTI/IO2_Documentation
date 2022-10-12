@@ -18,7 +18,7 @@ Foi desenvolvido um curso online aberto para treinar professores em todos os asp
 - Exemplos de itinerários de treinamento
 
 Este segundo produto intelectual propõe assim o desenvolvimento da documentação associada à aplicação JuezLTI: 
-[manual do professor](MOOC1/README_pt.md#manual-do-professor), [manual de implantação](MOOC2/README_pt.md#manual-de-implementação) 
+[manual do professor](MOOC1/README_pt.md#manual-do-professor), [manual de implementação](MOOC2/README_pt.md#manual-de-implementação) 
 e [ manual de desenvolvimento](MOOC2/README_pt.md#manual-de-desenvolvimento). 
 Com base nesses materiais, será construído um curso online em formato massivo e aberto (MOOC).
 
