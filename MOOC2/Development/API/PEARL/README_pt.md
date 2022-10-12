@@ -14,7 +14,7 @@
  - `EvaluateSubmission`: permite o pedido de uma avaliação para um exercício de programação específico;
  - `GetReport`: permite que um requerente obtenha um relatório para uma avaliação específica utilizando um _ticket_. 
 
-![Esquema PEARL](PEARL.png)
+![Esquema PEARL](PEARL_UML.svg)
 
 O diagrama representado na figura acima inclui dois elementos principais: `pedido` e `resposta`. O primeiro chama a função de pedido e os seus parâmetros tal como recebidos pelo serviço de avaliação e o último contém o _output_ para esse pedido.
 O elemento `pedido` contém um subelemento diferente de acordo com o tipo de função. O elemento `pedido` inclui dois subelementos que representam as respostas possíveis do serviço, mais precisamente, os elementos `capacidades` e `relatório`.
