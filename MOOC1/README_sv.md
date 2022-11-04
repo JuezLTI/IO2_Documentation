@@ -24,5 +24,5 @@ Block ett kommer att bestå av följande sektioner:
     - XML-övningar
   - [Importera övningar från Authorkit](sv/teacherView.md#importera-ovning-fran-authorkit)
 - [Studentvy](sv/studentvy.md)
-- [Granska resultat](sv/granskaresultat.md)
+- [Granska resultat](sv/granskaResultat.md)
 - [Säkerhetskopiera och återställa](sv/sakerhetskopieringAterstallning.md)
