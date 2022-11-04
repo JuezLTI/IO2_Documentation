@@ -15,15 +15,15 @@ Por lo tanto, será liderada por [Karlstad](http://www.kau.se/), dada su compete
 Este bloque tendr&aacute; las siguientes secciones:
 
 - [Introducci&oacute;n a JuezLTI](es/introJuezLTI.md)
-- Obteniendo las credenciales para JuezLTI
-- Usando JuezLTI en LMS
-- Vista del docente
-  - Creaci&oacute;n de ejercicios
+- [Obteniendo las credenciales para JuezLTI](es/gettingCredentials.md)
+- [Usando JuezLTI en LMS](es/usingInMoodle.md)
+- [Vista del docente](es/teacherView.md)
+  - [Creaci&oacute;n de ejercicios](es/teacherView.md#creando-un-ejercicio)
     - Ejercicios de programación
     - Ejercicios de SQL
     - Ejercicios de XML
   - Edici&oacute;n de ejercicios
-  - Importaci&oacute;n de ejercicios
-- Vista del estudiante
-- Revisión de los resultados
-- Exportar e importar el contexto
+  - [Importaci&oacute;n de ejercicios](es/teacherView.md#importando-ejercicios-desde-authorkit)
+- [Vista del estudiante](es/studentView.md)
+- [Revisión de los resultados](es/reviewingResults.md)
+- [Exportar e importar el contexto](es/backupRestore.md)
