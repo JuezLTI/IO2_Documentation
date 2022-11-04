@@ -23,6 +23,6 @@ Block ett kommer att bestå av följande sektioner:
     - [SQL-övningar](sv/lararvy.md#exempeluppgift-postgresql)
     - XML-övningar
   - [Importera övningar från Authorkit](sv/teacherView.md#importera-ovning-fran-authorkit)
-- [Studentvy](sv/studentVy.md)
+- [Studentvy](sv/studentvy.md)
 - [Granska resultat](sv/granskaresultat.md)
 - [Säkerhetskopiera och återställa](sv/sakerhetskopieringAterstallning.md)
