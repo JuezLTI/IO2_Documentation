@@ -7,7 +7,7 @@ Anahtarı ve parolayı alma işlemi şunları içerir:
   - [JuezLTI kimlik doğrulaması](#juezlti-authentication)
   - [Anahtar/parola talebi](#keysecret-request)
   - [JuezLTI yöneticisi tarafından yetkilendirme](#authorization-by-juezlti-admin)
-  - [Anahhtar/Parola gönderme](#keysecret-sent)
+  - [Anahtar/Parola gönderme](#keysecret-sent)
 
 Bu adımlar aşağıdaki şemada gösterilmektedir:
 ![Kimlik bilgilerini alma](../docs/img/gettingCredentials/juezLTI_gettingCredentials.jpg)
