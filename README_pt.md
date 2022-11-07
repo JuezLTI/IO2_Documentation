@@ -29,4 +29,4 @@ Da mesma forma, eles controlarão o desenvolvimento uniforme das tarefas atribu�
 O MOOC terá três blocos diferenciados, cada um deles desenvolvido por um dos parceiros, 
 com base em seu conhecimento e participação no projeto.
 Os materiais serão desenvolvidos em inglês, pelo que todos os parceiros colaborarão nas tarefas de tradução 
-para a sua língua materna: sueco, turco, português e [espanhol](README_es.md).
+para a sua língua materna: sueco, [turco](README_tr.md), português e [espanhol](README_es.md).

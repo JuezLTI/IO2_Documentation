@@ -21,4 +21,4 @@ Denna andra intellektuella produkt föreslår därför utvecklingen av dokumenta
 [Karlstads Universitet](http://www.kau.se/) kommer att ansvara för den pedagogiska utformningen av MOOC, samt de stil- och formatguider som materialet som det utvecklade materialet bör följa. På samma sätt kommer de att kontrollera utvecklingen av de uppgifter som tilldelats varje partner.
 
 MOOC kommer att ha tre differentierade block, som vart och ett kommer att utvecklas av en av partnerna, baserat på deras kunskap och deltagande i projektet.
-Språket som materialet kommer att utvecklas på kommer att vara engelska, så alla partners kommer att samarbeta i översättningsuppgifterna till sitt modersmål: [svenska](README_sv.md), turkiska (README_tr.md), [portugisiska](README_pt.md) och [spanska](README_es.md).
+Språket som materialet kommer att utvecklas på kommer att vara engelska, så alla partners kommer att samarbeta i översättningsuppgifterna till sitt modersmål: [svenska](README_sv.md), [turkiska] (README_tr.md), [portugisiska](README_pt.md) och [spanska](README_es.md).

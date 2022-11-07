@@ -22,4 +22,4 @@ Lider olarak, [Karlstad Uni](http://www.kau.se/) MOOC un pedagojik tasarımında
 
  
 MOOC, her biri ortakların projeye katılımlarına, bilgilerine ve deneyimlerine dayalı olarak geliştirilecek üç farklı bloğa sahip olacaktır. 
-Materyallerin geliştirileceği dil İngilizce olacaktır. Bu nedenle tüm ortaklar kendi ana dillerine çeviri görevlerinde işbirliği yapacaklardır.The : [İsveççe](README_sv.md), [Türkçe](README_tr.md) , [Portekizce](README_pt.md) ve  [İspanyolca](README_es.md). 
+Materyallerin geliştirileceği dil İngilizce olacaktır. Bu nedenle tüm ortaklar kendi ana dillerine çeviri görevlerinde işbirliği yapacaklardır.The :[İngilizce](README.md), [İsveççe](README_sv.md), [Portekizce](README_pt.md) ve  [İspanyolca](README_es.md). 
