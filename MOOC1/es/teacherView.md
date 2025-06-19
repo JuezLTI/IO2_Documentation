@@ -187,3 +187,31 @@ Pulse sobre el grupo seleccionado y elija el ejercicio que desea importar.
 
 Accediendo a _Lista de ejercicios_ podrá comprobar que el ejercicio ha sido importado, aunque los ejercicios importados desde Authorkit no son editables.
 ![Listado de ejercicios tras la importación](../docs/img/teacherView/exercisesListAfterImport.png)
+
+## Etiquetas semánticas
+
+Las etiquetas también pueden ser utilizadas para modificar el comportamiento de JuezLTI.
+
+### Uso de feedback proveniente de la IA
+
+Con el objetivo de guiar al estudiante hacia la solución correcta de un determinado ejercicio, podemos incorporar la etiqueta `withAI`. Esta etiqueta envía la solución propuesta por el estudiante a la plataforma de inteligencia artificial configurada por el administrador y devuelve un consejo sobre las modificaciones necesarias en el código para alcanzar la solución.
+
+![Ejemplo de consejo tras el uso de la etiqueta `withAI`](../docs/img/teacherView/withAI.png)
+
+### Palabras prohibidas
+
+Sabemos que, en ocasiones, los estudiantes utilizan atajos para alcanzar la solución. En el siguiente ejemplo, se muestra cómo un estudiante podría responder con un literal, en lugar de obtenerlo previamente del teclado.
+![Ejemplo sin utilizar `forbidden`](../docs/img/teacherView/withoutForbidden.png)
+
+Este comportamiento lo podemos evitar utilizando la etiqueta `forbidden:["forbiddenWord1";"forbiddenWord2"]`. En el caso anterior, escribiríamos `forbidden:["8.7"]`, obteniendo el siguiente error, al utilizar el mismo código anterior.
+
+![Ejemplo utilizando `forbidden`](../docs/img/teacherView/withForbidden.png)
+
+### Palabras obligatorias
+
+Otro caso que suele presentarse a los docentes es cuando estamos explicando un concepto y queremos que se utilice en un ejercicio, aunque pueda ser resuelto de otras formas. Es el caso, por ejemplo, de los bucles en programación o de los `JOIN`y subconsultas en bases de datos.
+
+Ejemplos:
+
+- Para obligar a utilizar un bucle `while`, pondríamos la etiqueta `mandatory:["while"]`
+- Para obligar a utilizar un `JOIN`, escribiríamos la etiqueta `mandatory:["join"]`
